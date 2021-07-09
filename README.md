@@ -71,7 +71,7 @@ ___
 ```
 
 ```html
-   <p> This is an HTML element </p>
+   <p> This is a HTML code block </p>
 ```   
 
 <!-- Tables -->
